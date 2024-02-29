@@ -41,7 +41,7 @@ public class ApiTestController {
 //	public String getUserLogin(@RequestParam("name")String name,@RequestParam("password") int password) {
 //		return name +password;
 //	}
-	
+//	
 	/*
 	 * @RequestParam -> 파람으로 값을 보낼때 매개변수에서 받는 용도
 	 * @RequestParam("name") -> 키값("name")을 잡아줘야함.
